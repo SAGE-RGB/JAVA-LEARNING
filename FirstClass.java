@@ -13,6 +13,7 @@ class FirstClass{
         }else{
             System.out.println("a is less then b ");
         }
+        sc.close();
 
 
     } 

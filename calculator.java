@@ -1,5 +1,4 @@
-
-import java.util.*;
+import java.util.Scanner;
 
 class calculator {
     public static void main(String[] args){
@@ -42,6 +41,6 @@ class calculator {
                 System.out.println("Invalid choice ");
             }
         }
-            
+        sc.close();
     }
 }
